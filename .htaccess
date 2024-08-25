@@ -1,0 +1,3 @@
+RewriteEngine On
+# Para que todas las URLs redireccionen a index.php
+RewriteRule . index.php
